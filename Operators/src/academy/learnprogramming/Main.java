@@ -3,8 +3,8 @@ package academy.learnprogramming;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        int result =  2 + 1;
+        // write your code here
+        int result = 2 + 1;
         System.out.println("2 + 1 = " + result);
         int previousResult = result;
         System.out.println("previousResult : " + previousResult);
@@ -12,7 +12,7 @@ public class Main {
         System.out.println("3 - 1 = " + result);
         System.out.println("previousResult : " + previousResult);
 
-        result = result  * 10; // 2 * 10 = 20
+        result = result * 10; // 2 * 10 = 20
 
         System.out.println("2 * 10 = " + result);
 
@@ -48,5 +48,47 @@ public class Main {
         // result = result - 2
         result -= 2; // 10 - 2 = 8
         System.out.println("10 - 2 = " + result);
+
+        boolean isAlien = false;
+        if (isAlien == false) {
+            System.out.println("It is not an Alien.");
+            System.out.println("and I am scared of Aliens");
+        }
+
+        int topScore = 80;
+        if(topScore < 100)
+        {
+            System.out.println("You got the highest score!");
+        }
+
+        int secondTopScore = 60;
+        if((topScore > secondTopScore) && (topScore < 100))
+        {
+            System.out.println("You score is greater than second top score and less than 100.");
+        }
+
+        if((topScore > 90) || (secondTopScore <= 90))
+        {
+            System.out.println("Either or both the conditions are true.");
+        }
+
+        int newValue = 50;
+        if(newValue == 50)
+        {
+            System.out.println("This is true.");
+        }
+
+        boolean isCar = false;
+        if(isCar = true)
+        {
+            System.out.println("This is not supposed to happen.");
+        }
+
+        boolean wasCar = isCar ?  true : false;
+        if(wasCar)
+        {
+            System.out.println("wasCar is true");
+        }
+
     }
 }
