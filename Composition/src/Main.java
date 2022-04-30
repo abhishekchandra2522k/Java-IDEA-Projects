@@ -8,8 +8,10 @@ public class Main {
 
         PC thePC = new PC(theCase, theMonitor, theMotherboard);
 
-        thePC.getMonitor().drawPixelAt(1500, 1200, "red"); // Drawing pixel at 1500, 1200 in color red
-        thePC.getMotherboard().loadProgram("Windows 1.0"); // Program Windows 1.0 is now loading...
-        thePC.getTheCase().pressPowerButton();  // Power button pressed
+//        thePC.getMonitor().drawPixelAt(1500, 1200, "red"); // Drawing pixel at 1500, 1200 in color red
+//        thePC.getMotherboard().loadProgram("Windows 1.0"); // Program Windows 1.0 is now loading...
+//        thePC.getTheCase().pressPowerButton();  // Power button pressed
+
+        thePC.powerUp();
     }
 }
