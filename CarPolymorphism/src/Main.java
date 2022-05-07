@@ -9,6 +9,16 @@ public class Main {
         maruti.startEngine();
         maruti.accelerate(4);
         maruti.brake();
+
+        Honda honda = new Honda("Honda City", 6, 5);
+        honda.startEngine();
+        honda.accelerate(5);
+        honda.brake();
+
+        Ford ford = new Ford("Endeavour", 6, 7);
+        ford.startEngine();
+        ford.accelerate(3);
+        ford.brake();
     }
 }
 
@@ -93,5 +103,29 @@ class Honda extends Car{
     @Override
     public void brake(){
         System.out.println("Honda-> Applied breaks");
+    }
+}
+
+class Ford extends Car{
+    private int seats;
+
+    public Ford(String name, int cylinder, int seats) {
+        super(name, cylinder);
+        this.seats = seats;
+    }
+
+    @Override
+    public void startEngine(){
+        System.out.println("Ford-> Engine Started");
+    }
+
+    @Override
+    public void accelerate(int acceleration){
+        System.out.println("Ford-> Accelerating at " + acceleration);
+    }
+
+    @Override
+    public void brake(){
+        System.out.println("Ford-> Applied breaks");
     }
 }
