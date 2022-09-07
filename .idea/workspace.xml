@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd15d073-4a01-4a27-9aa2-499913eb0357" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/AreaCalculator/AreaCalculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BarkingDog/BarkingDog.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecimalComparator/DecimalComparator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EqualSumChecker/EqualSumChecker.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EqualityPrinter/EqualityPrinter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeapYearCalculator/LeapYearCalculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MegaBytesConverter/MegaBytesConverter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/Methods.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MinutesToYearsDaysCalculator/MinutesToYearsDaysCalculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/Operators.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OperatorsChallenge/OperatorsChallenge.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayingCat/PlayingCat.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StatementsWhiteSpacesAndIndentation/StatementsWhiteSpacesAndIndentation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings/Strings.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Switch/Switch.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TeenNumberChecker/TeenNumberChecker.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="fd15d073-4a01-4a27-9aa2-499913eb0357" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ArrayList" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
