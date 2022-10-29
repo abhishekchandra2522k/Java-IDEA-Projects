@@ -1,3 +1,3 @@
-# IDEAProjects
+# Java-IDEA-Projects
 
-Java Programming Masterclass covering Java 11 & Java 17
+Java Programs made in IntelliJ IDEA.
