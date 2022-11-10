@@ -1,3 +1,5 @@
+package com.abhishek.basic;
+
 public class Main {
     public static void main(String[] args) {
         message(5);
