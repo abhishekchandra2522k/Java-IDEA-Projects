@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ObjectOrientatedProgrammingClasses.iml" filepath="$PROJECT_DIR$/ObjectOrientatedProgrammingClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectOrientatedProgramming.iml" filepath="$PROJECT_DIR$/ObjectOrientatedProgramming.iml" />
     </modules>
   </component>
 </project>
