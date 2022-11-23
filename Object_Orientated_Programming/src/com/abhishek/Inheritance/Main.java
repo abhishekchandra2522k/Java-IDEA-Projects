@@ -25,5 +25,8 @@ public class Main {
             Box box2 = new BoxWeight();
 
             box2.greeting();
+
+
+
     }
 }
