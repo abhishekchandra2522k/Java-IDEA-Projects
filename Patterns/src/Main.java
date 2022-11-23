@@ -1,15 +1,17 @@
 public class Main {
     public static void main(String[] args) {
-//        pattern1(5);
-//        System.out.println();
-//        pattern2(5);
-//        System.out.println();
-//        pattern3(5);
-//        System.out.println();
-//        pattern4(5);
-//        System.out.println();
-//        pattern5(5);
-//        pattern6(5);
+        pattern1(5);
+        System.out.println();
+        pattern2(5);
+        System.out.println();
+        pattern3(5);
+        System.out.println();
+        pattern4(5);
+        System.out.println();
+        pattern5(5);
+        System.out.println();
+        pattern6(5);
+        System.out.println();
         pattern7(5);
     }
 
