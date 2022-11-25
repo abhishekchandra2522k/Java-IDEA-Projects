@@ -12,6 +12,7 @@ public class BubbleSort {
         for (int i = 0; i < arr.length; i++) {
             swapped = false;
             for (int j = 0; j < arr.length - i - 1; j++) {
+                // swap logic, if the previous element is greater than the next element we swap the elements.
                     if(arr[j] > arr[j + 1]){
                         int temp = arr[j];
                         arr[j] = arr[j + 1];
