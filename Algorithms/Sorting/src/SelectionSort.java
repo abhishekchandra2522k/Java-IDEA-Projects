@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class SelectionSort {
     public static void main(String[] args) {
-        int[] arr = {-1,  -32};
+        int[] arr = {4, 3, 5, 2, 1};
         selectionSort(arr);
         System.out.println(Arrays.toString(arr));
     }
